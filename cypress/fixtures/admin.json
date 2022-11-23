@@ -1,0 +1,11 @@
+{
+  "validEmail": "qamid@qamid.ru",
+  "validPassword": "qamid",
+
+  "invalidEmail": "qami@qamid.ru",
+  "invalidPassword": "1111",
+
+  "errorForEqual": "Ошибка авторизации!",
+
+  "deskForEqual": "Управление залами"
+}
